@@ -1,8 +1,8 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "dainiuxt",
+    "repositoryName": "_hubpress.io",
+    "branch": "gh-pages"
   },
   "theme": {
     "name": "Casper"
